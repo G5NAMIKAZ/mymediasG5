@@ -1,4 +1,4 @@
-# <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -212,37 +212,35 @@
         </button>
 
         <div class="profile">
-            <!-- Substitua pela URL da sua foto -->
-            <img src="https://cdn.discordapp.com/attachments/858724180795326497/1395450027370873044/ryder.jpeg?ex=687a7d9c&is=68792c1c&hm=2d706872b7d315dec369d25e7cbf923b8b633f3189719b508496293520452d94&" alt="Minha Foto" class="profile-img">
+            <img src="https://cdn.discordapp.com/attachments/858724180795326497/1395450027370873044/ryder.jpeg" alt="Foto do G5" class="profile-img">
             <h1>G5</h1>
             <p>Me siga!</p>
         </div>
         
         <div class="social-links">
-            <!-- Substitua os links pelos seus -->
-            <a href="https://www.youtube.com/@G5NAMIKAZ" class="social-link youtube">
+            <a href="https://www.youtube.com/@G5NAMIKAZ" target="_blank" rel="noopener noreferrer" class="social-link youtube">
                 <i class="fab fa-youtube"></i> YouTube
             </a>
             
-            <a href="https://www.tiktok.com/@g5namikaz?lang=pt-BR" class="social-link tiktok">
+            <a href="https://www.tiktok.com/@g5namikaz?lang=pt-BR" target="_blank" rel="noopener noreferrer" class="social-link tiktok">
                 <i class="fab fa-tiktok"></i> TikTok
             </a>
             
-            <a href="https://x.com/G5NAMIKAZ" class="social-link twitter">
+            <a href="https://x.com/G5NAMIKAZ" target="_blank" rel="noopener noreferrer" class="social-link twitter">
                 <i class="fab fa-twitter"></i> Twitter
             </a>
             
-            <a href="https://www.twitch.tv/g5namikaz" class="social-link twitch">
+            <a href="https://www.twitch.tv/g5namikaz" target="_blank" rel="noopener noreferrer" class="social-link twitch">
                 <i class="fab fa-twitch"></i> Twitch
             </a>
             
-            <a href="https://discord.gg/CJqAp2JW" class="social-link discord">
+            <a href="https://discord.gg/CJqAp2JW" target="_blank" rel="noopener noreferrer" class="social-link discord">
                 <i class="fab fa-discord"></i> Discord
             </a>
         </div>
         
         <footer>
-            ©2025 Henrique - Todos os direitos reservados
+            ©2025 G5 - Todos os direitos reservados
         </footer>
     </div>
 
